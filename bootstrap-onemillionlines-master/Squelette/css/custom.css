@@ -1,0 +1,31 @@
+/* Vos customisations des classes de Bootstrap */
+
+#home {
+    background: url(/images/hero-image.jpg);
+    text-align: center;
+    background-image: 200px;
+}
+
+#who {
+    text-align: center;
+
+}
+
+svg {
+    width: 80px;
+    height: 80px;
+}
+
+.espace {
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {}
